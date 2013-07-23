@@ -52,7 +52,7 @@ To create a new LDAP river:
 			"name", 
 			"groups"
 		],
-	        "poll" : 60000,
+	        "poll" : 60000
 	    },
 	    "index" : {
 		"index" : "server0",
